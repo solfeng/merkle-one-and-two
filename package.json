@@ -1,0 +1,21 @@
+{
+  "name": "hardhat-project",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^2.0.0",
+    "hardhat": "^2.12.4"
+  },
+  "dependencies": {
+    "@divergencetech/ethier": "^0.42.0",
+    "@ethereumjs/tx": "^4.0.2",
+    "@ethersproject/keccak256": "^5.7.0",
+    "@openzeppelin/contracts": "^4.8.0",
+    "aws-sdk": "^2.1288.0",
+    "chai": "^4.3.7",
+    "dotenv": "^16.0.3",
+    "ethers": "^5.7.2",
+    "fs": "^0.0.1-security",
+    "keccak256": "^1.0.6",
+    "merkletreejs": "^0.3.9",
+    "web3": "^1.8.1"
+  }
+}
